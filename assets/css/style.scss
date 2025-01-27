@@ -83,6 +83,14 @@ details > summary {
 margin-bottom: 1rem;
   color: blue;
   cursor: pointer;
+
+summary .icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  transition: transform 0.26s;
+  color: var(--collapse-icon-color);
+}
 summary,
 .details-info {
   padding: 1rem;
