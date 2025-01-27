@@ -1,19 +1,17 @@
 <center>DRAFT</center><center><h1 style='font-size: 1.2em;'>GCWG - RDA maDMP Metadata Application Profile (MAP)<br> for machine-actionable Data Management Plans<br> v2.2</h1></center>
 <Div Align=RIGHT> <details>
   <summary>Link to HIGH LEVEL BRIEF »   </summary>
-  <Div Align=LEFT class="details-info"> 
     <details> <summary>Elevator pitch</summary>
-    <p>Imagine transforming your organization’s data from disparate sources into a strategic corporate asset. By implementing machine-actionable Data Management Plans (maDMPs) aligned with FAIRER data management principles — Findable, Accessible, Interoperable, Reusable, Ethical, and Reproducible — we can automate workflows, enhance compliance, and maximize the value of our data.<br> With a click of a button, you’ll be able to get answers fast, like costing, funding, approvals, storage size and projected growth, technical resources, computing environment, partner agreements, Indigenous considerations, disposition planning, and so much more.<br> maDMPs provide a scalable, customizable system that improves efficiency, reduces risks, and prepares your data for cutting-edge technologies like Big Data and AI. This means better decision-making, reduced costs, and increased funding opportunities — all while meeting global standards for data security and governance.<br> In short, maDMPs are an enterprise solution that empowers your team to work smarter, innovate faster, and stay ahead in today’s data-driven world.
-    </p></details>
+    <Div Align=LEFT class="details-info"> <p>Imagine transforming your organization’s data from disparate sources into a strategic corporate asset. By implementing machine-actionable Data Management Plans (maDMPs) aligned with FAIRER data management principles — Findable, Accessible, Interoperable, Reusable, Ethical, and Reproducible — we can automate workflows, enhance compliance, and maximize the value of our data.<br> With a click of a button, you’ll be able to get answers fast, like costing, funding, approvals, storage size and projected growth, technical resources, computing environment, partner agreements, Indigenous considerations, disposition planning, and so much more.<br> maDMPs provide a scalable, customizable system that improves efficiency, reduces risks, and prepares your data for cutting-edge technologies like Big Data and AI. This means better decision-making, reduced costs, and increased funding opportunities — all while meeting global standards for data security and governance.<br> In short, maDMPs are an enterprise solution that empowers your team to work smarter, innovate faster, and stay ahead in today’s data-driven world.
+    </p></Div></details>
     <details><summary>Value proposition</summary>
-    <p></p></details>
+    <Div Align=LEFT class="details-info"> <p></p></Div></details>
     <details><summary>User Stories</summary>
-    <p></p></details>
+    <Div Align=LEFT class="details-info"> <p></p></Div></details>
     <details><summary>FAQ</summary>
-    <p></p></details>
+    <Div Align=LEFT class="details-info"> <p></p></Div></details>
     <details><summary>References</summary>
-    <p></p></details>
-</Div>
+    <Div Align=LEFT class="details-info"> <p></p></Div></details>
 </details>
 </Div>
 
